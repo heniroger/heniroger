@@ -6,7 +6,7 @@
  -->
  ![Heniroger's GitHub stats](https://github-readme-stats.vercel.app/api?username=heniroger&count_private=true&theme=radical)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heniroger&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heniroger&layout=compact&count_private=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
